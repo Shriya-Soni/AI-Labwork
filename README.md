@@ -1,5 +1,5 @@
 # AI-Labwork
-# Shriya Soni, 2023B4AD0885G
+# Shriya Soni (2023B4AD0885G)
 
 A comprehensive repository containing Python implementations and lab reports for core Artificial Intelligence concepts. These exercises bridge the gap between AI Science (understanding representations and algorithms) and AI Engineering (implementing, testing, and validating LLM-assisted code).
 
